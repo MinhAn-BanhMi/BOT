@@ -1,1 +1,1 @@
-worker:node bot.js MinhAn.js
+worker:node bot.js index.js
